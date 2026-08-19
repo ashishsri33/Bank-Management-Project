@@ -1,6 +1,6 @@
 # Bank Management System
 
-A simple Bank Management System made using Python.
+Bank Management System made using Python.
 
 This project allows users to create and manage bank accounts. Account data is stored in a JSON file, so the data remains available even after closing the program.
 
