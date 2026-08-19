@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Ashish Srivastava",
+        "age": 21,
+        "email": "ashishsrivastav@gmail.com",
+        "pin": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+        "accountNo.": "Zw1j40#",
+        "balance": 10000,
+        "transaction": [
+            {
+                "type": "Deposit",
+                "transactionID": "TXN-Zw1j40#-1",
+                "amount": 10000,
+                "date": "19-August-2026",
+                "time": "22:34:43",
+                "new_Balance": 10000
+            },
+            {
+                "type": "Deposit",
+                "transactionID": "TXN-Zw1j40#-2",
+                "amount": 2900,
+                "date": "19-August-2026",
+                "time": "22:34:54",
+                "new_Balance": 12900
+            },
+            {
+                "type": "Withdraw",
+                "transactionID": "TXN-Zw1j40#-3",
+                "amount": 2900,
+                "date": "19-August-2026",
+                "time": "22:35:56",
+                "new_Balance": 10000
+            }
+        ]
+    },
+    {
+        "name": "Will Finley",
+        "age": 44,
+        "email": "finleywill@gmail.com",
+        "pin": "edee29f882543b956620b26d0ee0e7e950399b1c4222f5de05e06425b4c995e9",
+        "accountNo.": "W2Qm10^",
+        "balance": 0,
+        "transaction": []
+    },
+    {
+        "name": "Jack Reacher",
+        "age": 40,
+        "email": "jackreach@gmail.com",
+        "pin": "9af15b336e6a9619928537df30b2e6a2376569fcf9d7e773eccede65606529a0",
+        "accountNo.": "Z5I7%0d",
+        "balance": 8971,
+        "transaction": [
+            {
+                "type": "Deposit",
+                "transactionID": "TXN-Z5I7%0d-1",
+                "amount": 9861,
+                "date": "19-August-2026",
+                "time": "22:39:03",
+                "new_Balance": 9861
+            },
+            {
+                "type": "Withdraw",
+                "transactionID": "TXN-Z5I7%0d-2",
+                "amount": 890,
+                "date": "19-August-2026",
+                "time": "22:39:12",
+                "new_Balance": 8971
+            }
+        ]
+    },
+    {
+        "name": "John Byers",
+        "age": 31,
+        "email": "byersjohn@gmail.com",
+        "pin": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+        "accountNo.": "61LlK*6",
+        "balance": 9350,
+        "transaction": [
+            {
+                "type": "Deposit",
+                "transactionID": "TXN-61LlK*6-1",
+                "amount": 568,
+                "date": "19-August-2026",
+                "time": "22:40:06",
+                "new_Balance": 568
+            },
+            {
+                "type": "Withdraw",
+                "transactionID": "TXN-61LlK*6-2",
+                "amount": 120,
+                "date": "19-August-2026",
+                "time": "22:40:13",
+                "new_Balance": 448
+            },
+            {
+                "type": "Deposit",
+                "transactionID": "TXN-61LlK*6-3",
+                "amount": 8902,
+                "date": "19-August-2026",
+                "time": "22:40:19",
+                "new_Balance": 9350
+            }
+        ]
+    }
+]
